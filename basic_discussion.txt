@@ -1,0 +1,31 @@
+SDLC
+Software
+- System Software
+- Application Software
+
+Development
+- System Design
+- UI
+- Start Coding
+- Test
+- Update and Manitnance
+
+Life
+Cycle
+
+Softwares
+
+System -> OS, Add-on module software
+
+Application ->
+	OS dependant - MS Office, Calculator, Notepad
+		C/C++, Java, Python, Lua
+	OS Independant - Web/Cloud - server side
+		Front-end - (HTML, CSS, JS)
+		    FE Frameworks - (ReactJS, Angular)
+
+		Php (CI, magento, cakephp etc),
+		Java (Spring, Hibernate),
+		Python (Django, Flask, bottle etc)
+resume.com/@bhaskar
+login, register, forgot password, profile update, change password
